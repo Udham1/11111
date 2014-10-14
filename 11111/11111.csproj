@@ -109,6 +109,7 @@
     <Compile Include="11111ViewController.designer.cs">
       <DependentUpon>11111ViewController.cs</DependentUpon>
     </Compile>
+    <Compile Include="EmptyClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="MainStoryboard.storyboard" />
